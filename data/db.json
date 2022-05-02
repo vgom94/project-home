@@ -1,0 +1,74 @@
+{
+  "moviments": [
+    {
+      "titol": "lloguer",
+      "categoria": "lloguer",
+      "quantitat": "840",
+      "data": "2022-05-01",
+      "pagador": "girafa",
+      "id": 1
+    },
+    {
+      "titol": "prova",
+      "categoria": "menjar",
+      "quantitat": "1",
+      "data": "2022-02-01",
+      "pagador": "pato",
+      "id": 2
+    },
+    {
+      "titol": "prova1",
+      "categoria": "Lloguer",
+      "quantitat": "10000",
+      "data": "2022-01-01",
+      "pagador": "pato",
+      "id": 3
+    }
+  ],
+  "content-menus": [
+    {
+      "id": 1,
+      "nom": "Tricount",
+      "ruta": "moviments"
+    },
+    {
+      "id": 2,
+      "nom": "Traster",
+      "ruta": "traster"
+    },
+    {
+      "id": 3,
+      "nom": "Llistes compra",
+      "ruta": "llistes"
+    },
+    {
+      "id": 4,
+      "nom": "Calendari",
+      "ruta": "calendari"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "nom": "Menjar"
+    },
+    {
+      "id": 2,
+      "nom": "Entreteniment"
+    },
+    {
+      "id": 3,
+      "nom": "Lloguer"
+    }
+  ],
+  "pagadors": [
+    {
+      "id": 1,
+      "nom": "Pato"
+    },
+    {
+      "id": 2,
+      "nom": "Girafa"
+    }
+  ]
+}
